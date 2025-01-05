@@ -73,7 +73,7 @@ body {
 .card {
   width: 90%;
   border-radius: 1.5em;
-  margin: 3em auto 0 auto;
+  margin: 0 auto 0 auto;
   background-color: white;
 }
 
